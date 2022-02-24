@@ -1,0 +1,17 @@
+.btn-blue{
+	background-color: #0095F6;
+	padding: 12px 15px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.btn-blue:hover{
+	background-color: #0440e5;
+	padding: 14px 18px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Ubuntu', sans-serif;
+}
